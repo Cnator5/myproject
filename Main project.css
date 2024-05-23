@@ -10,7 +10,7 @@
   width: 100%;
   margin: 0;
   z-index: 999;
-    background-color: #f0e6e6;
+    background-color: #f8f2f2;
     color: #0A102F;
     padding: 20px;
    box-shadow: 2px 3px 3px  rgba(163, 160, 160, 0.2);
@@ -140,7 +140,6 @@
   display: flex;
   padding: 1em;
   gap: 2em;
-  width: 50em;
   left: -10em;
   visibility: hidden;
   opacity: 0;
@@ -229,9 +228,7 @@
   padding: 1em;
   justify-content: space-between;
   gap: 2em;
-  width: 70em;
   left: -15em;
-  right: -20em;
   visibility: hidden;
   opacity: 0;
   transition: .3s;
@@ -242,9 +239,7 @@
     padding: 1em;
     justify-content: space-between;
     gap: 2em;
-    width: 70em;
     left: -15em;
-    right: -20em;
     visibility: hidden;
     opacity: 0;
     transition: .3s;
@@ -254,7 +249,6 @@
   display: flex;
   padding: 1em;
   gap: 2em;
-  width: 70em;
   left: -20em;
   justify-content: space-between;
   visibility: hidden;
@@ -279,6 +273,7 @@
 }
 .nav-toggle{
   visibility: hidden; /* nav-toggle (lone bar) hidden at full screen*/
+  display: none;
 }
 
 
@@ -1214,7 +1209,7 @@ font-weight: 400;
 }
 
 .box-8-0-1 {
-  font-size: 30px;
+  font-size: 16px;
   margin-top: 20px;
 }
 
@@ -1377,7 +1372,7 @@ font-weight: 400;
   .secondary-right-left h1{
     text-align: center;
     margin-bottom: 20px;
-    font-size: 3rem;
+    font-size: 1rem;
     font-weight: 800;
   }
   
@@ -1994,14 +1989,14 @@ ul {
 }
 
 .pride-first h3 {
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
     margin-bottom: 10px;
     color: #f4734f;
 }
 
 .pride-first h1 {
-    font-size: 36px;
+    font-size: 16px;
     font-weight: bold;
     line-height: 1.2;
 }
@@ -2025,7 +2020,7 @@ ul {
 }
 
 .pride-div h1 {
-    font-size: 36px;
+    font-size: 16px;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -2055,7 +2050,7 @@ ul {
 }
 
 .brands-we-support_h h1 {
-  font-size: 36px;
+  font-size: 16px;
   font-weight: bold;
   line-height: 1.2;
 }
@@ -2106,12 +2101,12 @@ ul {
 }
 .after-spinning-phones-h1{
   justify-content: center;
-  font-size: 2.6rem;
+  font-size: 1rem;
 }
 .after-spinning-phones-h2{
   color: #f4734f;
   margin-bottom: 10px;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .adds-on-features {
@@ -2155,7 +2150,7 @@ ul {
 }
 
 .adds-on-features-articles article h1 {
-  font-size: 24px;
+  font-size: 16px;
   margin-bottom: 10px;
 }
 
@@ -2256,6 +2251,11 @@ ul {
 @media (max-width: 1024px) {
   .nav-toggle{
     visibility: visible;  /*this media query makes the nav-toggle to disappear when the max-width is 1024px */
+    color: #b6afc2;
+    font-size: 5rem;
+  }
+  .main-nav ul {
+    font-size: 16px;
   }
 }
 
@@ -2268,7 +2268,7 @@ ul {
     display: grid;
     grid-template-columns: auto;
     width: auto;
-    font-size: 3rem;
+    font-size: 1rem;
     min-width: auto;
     width: auto;
     margin: auto;
@@ -3226,5 +3226,17 @@ input{
     }
 }
  
+@media (max-width: 600px) {
+  body{
+    font-size: 2rem;
+  }
+  .main-man{
+      font-size: 2rem;
+  }
+  .form-up{
+    font-size: 2rem;
+  }
+}
+
 
 

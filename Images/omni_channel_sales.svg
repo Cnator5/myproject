@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="33" cy="32" r="12.5" stroke="#252B33" stroke-width="3"/>
+<path d="M26.3095 42.3556V42.3556C26.3095 39.2711 28.81 36.7706 31.8945 36.7706H33.9889C37.459 36.7706 40.272 39.5836 40.272 43.0537V43.0537" stroke="#252B33" stroke-width="3"/>
+<circle cx="33.2908" cy="29.3239" r="3.38688" stroke="#252B33" stroke-width="3"/>
+<line x1="32.5" y1="12" x2="32.5" y2="19" stroke="#252B33" stroke-width="3"/>
+<line x1="47.0601" y1="18.7156" x2="42.6725" y2="23.7349" stroke="#252B33" stroke-width="3"/>
+<line y1="-1.5" x2="6.66667" y2="-1.5" transform="matrix(0.658145 0.752891 0.752891 -0.658145 19.6954 17.7284)" stroke="#252B33" stroke-width="3"/>
+<line y1="-1.5" x2="6.66667" y2="-1.5" transform="matrix(0.752891 -0.658145 -0.658145 -0.752891 17.815 44.959)" stroke="#252B33" stroke-width="3"/>
+<line x1="46.532" y1="46.0884" x2="41.5128" y2="41.7008" stroke="#252B33" stroke-width="3"/>
+<circle cx="32.5" cy="9.5" r="3.5" fill="#F47342"/>
+<circle cx="48.7189" cy="16.8727" r="3.5" transform="rotate(41.1585 48.7189 16.8727)" fill="#F47342"/>
+<circle r="3.5" transform="matrix(-0.752891 0.658145 0.658145 0.752891 16.9386 16.8727)" fill="#F47342"/>
+<circle r="3.5" transform="matrix(0.658145 0.752891 0.752891 -0.658145 16.9386 47.7235)" fill="#F47342"/>
+<circle cx="48.4124" cy="47.7235" r="3.5" transform="rotate(131.159 48.4124 47.7235)" fill="#F47342"/>
+<line y1="-1.5" x2="7" y2="-1.5" transform="matrix(1.31134e-07 -1 -1 -1.31134e-07 31 52)" stroke="#252B33" stroke-width="3"/>
+<circle r="3.5" transform="matrix(1 1.74846e-07 1.74846e-07 -1 32.5 54.5)" fill="#F47342"/>
+<line y1="-1.5" x2="7" y2="-1.5" transform="matrix(-1 8.74228e-08 8.74228e-08 1 52 34)" stroke="#252B33" stroke-width="3"/>
+<circle r="3.5" transform="matrix(-4.37114e-08 -1 -1 4.37114e-08 54.5 32.5)" fill="#F47342"/>
+<line x1="13" y1="32.5" x2="20" y2="32.5" stroke="#252B33" stroke-width="3"/>
+<circle cx="10.5" cy="32.5" r="3.5" transform="rotate(-90 10.5 32.5)" fill="#F47342"/>
+</svg>
